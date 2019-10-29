@@ -26,3 +26,6 @@ For each test case, output one integer in a new line: the answer for the test ca
     0
 ## Sample explanation:
 One of the solutions can be: as all the asteroids have positive coordinates, we can choose some point on the surface which lies in the all-negative octant, and none of the asteroids will be observed. 
+
+## Sudev Santhosh
+THis is my first pull request.
