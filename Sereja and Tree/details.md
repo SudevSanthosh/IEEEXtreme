@@ -39,3 +39,4 @@ Output answer in single line.
 
 #### Output:
     0
+This wass asked for IEEE Xtreme.
